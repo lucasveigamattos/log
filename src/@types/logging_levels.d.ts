@@ -1,0 +1,1 @@
+declare type levels = "CRITICAL" | "ERROR" | "WARNING" | "INFO" | "DEBUG" | "NOTSET"

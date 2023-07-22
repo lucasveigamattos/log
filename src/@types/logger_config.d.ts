@@ -1,0 +1,1 @@
+declare type configs = {level: levels, filePath: string}
